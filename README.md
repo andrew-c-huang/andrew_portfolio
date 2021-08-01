@@ -21,19 +21,20 @@ Career arc
 
 Kayak
 ![kayak logo](https://github.com/taguscove/andrew_portfolio/blob/main/images/kayak_logo.png)
-Team Lead 2019-2021
-Senior Data scientist 2018
-Data Scientist 2016-2017
+
+- Team Lead 2019-2021
+- Senior Data scientist 2018
+- Data Scientist 2016-2017
 
 Galvanize Masters in Data Science 2015-2016
 
 Self learning and coding 2014
 
 Bridgewater Associates
-Data Analyst, Research Department 2012-2013
-Data Analyst, Fiannce Department 2010-2012
+- Data Analyst, Research Department 2012-2013
+- Data Analyst, Fiannce Department 2010-2012
 
 General Electric
-Financial Management Program 2007-2010
+- Financial Management Program 2007-2010
 
 
