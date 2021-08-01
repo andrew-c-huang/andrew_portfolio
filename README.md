@@ -20,7 +20,7 @@ Career arc
 ---
 
 Kayak
-![alt text](image.jpg)
+![kayak logo](https://github.com/taguscove/andrew_portfolio/blob/main/images/kayak_logo.png)
 Team Lead 2019-2021
 Senior Data scientist 2018
 Data Scientist 2016-2017
