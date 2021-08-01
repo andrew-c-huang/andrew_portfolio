@@ -13,15 +13,14 @@
 
 ## Interface with external marketing organizations
 1. Directly and regularly partnered with Facebook and Google support and data science teams. Troubleshooting experiment setup issues, partnering on testing new products
-2. Presented in a monthly forum of 50 Booking Holdings marketing leaders. Discussed the the [iOS 14.5] (https://www.theverge.com/22403523/ios-14-5-tracking-consent-app-transparency-how-to) Apple device and Safari impacts on ad experiments. 
+2. Presented in a monthly forum of 50 Booking Holdings marketing leaders. Discussed the the [iOS 14.5](https://www.theverge.com/22403523/ios-14-5-tracking-consent-app-transparency-how-to) Apple device and Safari impacts on ad experiments. 
 
 ---
 Career arc
 ---
 
 Kayak
-![kayak logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kayak.com%2Fabout&psig=AOvVaw2wEGWhjZgN8qvk4uxmxmbX&ust=1627947127251000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDhtOT9kPICFQAAAAAdAAAAABAD)
-
+![alt text](image.jpg)
 Team Lead 2019-2021
 Senior Data scientist 2018
 Data Scientist 2016-2017
